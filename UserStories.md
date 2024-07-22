@@ -12,7 +12,7 @@
 
 #### Product Browsing:
 1. **Scenario:** User visits the homepage.
-   - [ ] **Given:** The user is on the homepage.
+   - [X] **Given:** The user is on the homepage.
    - [ ] **When:** The user scrolls through the homepage.
    - [ ] **Then:** They should see featured products, new arrivals, and top deals prominently displayed.
 
